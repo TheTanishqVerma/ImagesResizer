@@ -12,6 +12,7 @@ Resize and convert a batch of images to PNG format using Python and the Pillow l
 
 ## Folder Structure
 ImagesResizer
+
 ├── input_images  # Put your original images here (.jpg, .jpeg, .bmp, etc.).
 
 ├── output_images  # Resized images will be saved here (auto-created).
